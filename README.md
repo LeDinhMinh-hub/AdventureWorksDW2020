@@ -1,0 +1,3 @@
+**AdventureWorksDW2020** is a sample data warehouse provided by Microsoft, designed for learning and demonstrating data warehousing, ETL processes, and business intelligence. It uses a **star schema** with fact and dimension tables, modeling a fictional company that sells bicycles. Key components include **FactInternetSales** and **FactResellerSales** for sales data, and dimensions like **DimCustomer**, **DimProduct**, and **DimDate**. It supports analysis of sales trends, customer behavior, inventory management, and financial reporting, making it ideal for SQL, ETL, and BI practice.
+
+Firstly, 
